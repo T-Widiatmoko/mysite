@@ -1,1 +1,0 @@
-# Project Kalkulator Paling Sederhana
